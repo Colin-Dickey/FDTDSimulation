@@ -1,0 +1,8 @@
+Copyright (c) 2026 Colin Dickey
+
+Permission is granted to use, copy, modify, and distribute this software for
+non-commercial purposes only.
+
+Commercial use, including selling, sublicensing, or incorporating this software
+into commercial products or services, is prohibited without prior written
+permission from the copyright holder.
